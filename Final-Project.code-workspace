@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "Final-Project",
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.inlayHints.parameterNames.enabled": "none",
+		"extensions.ignoreRecommendations": false,
+		"vsintellicode.java.completionsEnabled": false,
+		"vsintellicode.modify.editor.suggestSelection": "disabled"
+	}
+}
